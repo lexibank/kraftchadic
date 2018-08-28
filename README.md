@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Kraft, Charles H. 1981. Chadic Wordlists
 
+Conceptlist in Concepticon: [Kraft-1981-434](http://concepticon.clld.org/contributions/Kraft-1981-434)
+
 ## Notes
 
 Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
@@ -22,7 +24,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Lexemes:** 29,493
 - **Synonymy:** 1.04
 - **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 29,493
+- **Invalid lexemes:** 0
 - **Tokens:** 0
-- **Segments:** 0 (0 LingPy errors, 0 CLPA errors, 0 CLPA modified)
+- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00

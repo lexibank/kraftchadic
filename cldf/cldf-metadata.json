@@ -5,7 +5,9 @@
     "dc:format": "http://concepticon.clld.org/contributions/Kraft-1981-434",
     "dc:source": "sources.bib",
     "dc:title": "Chadic Wordlists",
+    "dcat:accessURL": "https://github.com/lexibank/kraftchadic",
     "rdf:ID": "kraftchadic",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -13,14 +15,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:extent": 29493,
             "tableSchema": {
                 "columns": [
                     {
@@ -115,6 +118,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 68,
             "tableSchema": {
                 "columns": [
                     {
@@ -160,6 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 428,
             "tableSchema": {
                 "columns": [
                     {
@@ -191,10 +196,11 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },

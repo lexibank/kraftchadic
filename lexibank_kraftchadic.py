@@ -14,6 +14,7 @@ from pylexibank.providers import qlc
 
 class Dataset(qlc.QLC):
     dir = Path(__file__).parent
+    id = 'kraftchadic'
     DSETS = ['kraft1981.csv']
 
     def cmd_install(self, **kw):
@@ -63,10 +64,7 @@ class Dataset(qlc.QLC):
                     Name=language.capitalize(),
                     ISO639P3code=lids[language],
                     Glottocode=self.glottolog.glottocode_by_iso.get(iso, ''))
-                ds.add_concept(
-                    ID=cid,
-                    Name=concept,
-                    Concepticon_ID=cid)
+                ds.add_concept(ID=cid, Name=concept, Concepticon_ID=cid)
 
                 for i, (l, c, form, id_) in enumerate(rows):
                     ds.add_lexemes(
