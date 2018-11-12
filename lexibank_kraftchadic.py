@@ -11,36 +11,18 @@ from clldutils.misc import slug
 from pylexibank.dataset import Metadata
 from pylexibank.providers import qlc
 
-SEGMENTS_REPLACEMENTS = [
-    [' ',  '_'],
-    ['i̵', 'i'],
-    ['ì̵', 'i'],
-    ['š',  'ʃ'],
-    ['ƚ',  'ɬ'],
-    ['ɩ̀',  'i'],
-    ['ž',  'ʒ'],
-    ['ǹ',  'n'],
-    ['č',  'tʃ'],
-    ['ɩ́',  'i'],
-    ['ǰ',  'dʒ'],
-    ['ɩ̄',  'iː'],
-    ['ll', 'lː'],
-    ['nn', 'nː'],
-    ['rr', 'rː'],
-    ['mm', 'mː'],
-    ['í̵', 'i'],
-    ['ss', 'sː'],
-]
+from segments import Profile, Tokenizer
 
 class Dataset(qlc.QLC):
     dir = Path(__file__).parent
     id = 'kraftchadic'
     DSETS = ['kraft1981.csv']
 
+    #profile = Profile.from_file('orthography.tsv')
+
     def get_segments(self, form):
         # REPLACEMENTS, to be moved to an orthographic profile
-        for source, target in SEGMENTS_REPLACEMENTS:
-            form = form.replace(source, target)
+    #    print(self.profile)
 
         return lingpy.ipa2tokens(form, merge_vowels=False)
 
