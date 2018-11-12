@@ -11,11 +11,39 @@ from clldutils.misc import slug
 from pylexibank.dataset import Metadata
 from pylexibank.providers import qlc
 
+SEGMENTS_REPLACEMENTS = [
+    [' ',  '_'],
+    ['i̵', 'i'],
+    ['ì̵', 'i'],
+    ['š',  'ʃ'],
+    ['ƚ',  'ɬ'],
+    ['ɩ̀',  'i'],
+    ['ž',  'ʒ'],
+    ['ǹ',  'n'],
+    ['č',  'tʃ'],
+    ['ɩ́',  'i'],
+    ['ǰ',  'dʒ'],
+    ['ɩ̄',  'iː'],
+    ['ll', 'lː'],
+    ['nn', 'nː'],
+    ['rr', 'rː'],
+    ['mm', 'mː'],
+    ['í̵', 'i'],
+    ['ss', 'sː'],
+]
 
 class Dataset(qlc.QLC):
     dir = Path(__file__).parent
     id = 'kraftchadic'
     DSETS = ['kraft1981.csv']
+
+    def get_segments(self, form):
+        # REPLACEMENTS, to be moved to an orthographic profile
+        for source, target in SEGMENTS_REPLACEMENTS:
+            form = form.replace(source, target)
+
+        return lingpy.ipa2tokens(form, merge_vowels=False)
+
 
     def cmd_install(self, **kw):
         # column "counterpart_doculect" gives us the proper names of the doculects
@@ -72,4 +100,5 @@ class Dataset(qlc.QLC):
                         Parameter_ID=cid,
                         Value=form,
                         Source=[src.id],
+                        Segments=self.get_segments(form),
                         Local_ID=id_)

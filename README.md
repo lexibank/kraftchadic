@@ -15,9 +15,11 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 
 [![Build Status](https://travis-ci.org/lexibank/kraftchadic.svg?branch=master)](https://travis-ci.org/lexibank/kraftchadic)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 74%](https://img.shields.io/badge/BIPA-74%25-yellow.svg "BIPA: 74%")
+![CLTS SoundClass: 70%](https://img.shields.io/badge/CLTS%20SoundClass-70%25-yellow.svg "CLTS SoundClass: 70%")
 
 - **Varieties:** 68
 - **Concepts:** 428
@@ -25,6 +27,6 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Synonymy:** 1.04
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
+- **Tokens:** 174,200
+- **Segments:** 367 (97 BIPA errors, 110 CTLS sound class errors, 270 CLTS modified)
+- **Inventory size (avg):** 63.16
