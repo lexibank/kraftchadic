@@ -27,6 +27,6 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Synonymy:** 1.04
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 170,994
-- **Segments:** 191 (3 BIPA errors, 3 CTLS sound class errors, 185 CLTS modified)
-- **Inventory size (avg):** 69.07
+- **Tokens:** 170,854
+- **Segments:** 196 (3 BIPA errors, 3 CTLS sound class errors, 190 CLTS modified)
+- **Inventory size (avg):** 69.28
