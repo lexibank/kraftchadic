@@ -1,6 +1,7 @@
 # coding=utf-8
 from __future__ import unicode_literals, print_function
 from itertools import groupby
+import os.path
 
 import lingpy
 from pycldf.sources import Source
@@ -18,16 +19,11 @@ class Dataset(qlc.QLC):
     id = 'kraftchadic'
     DSETS = ['kraft1981.csv']
 
-    #profile = Profile.from_file('orthography.tsv')
-
-    def get_segments(self, form):
-        # REPLACEMENTS, to be moved to an orthographic profile
-    #    print(self.profile)
-
-        return lingpy.ipa2tokens(form, merge_vowels=False)
-
-
     def cmd_install(self, **kw):
+        # Load profile and build tokenizer
+        profile = Profile.from_file(self.dir.joinpath('orthography.tsv'))
+        tokenizer = Tokenizer(profile=profile)
+
         # column "counterpart_doculect" gives us the proper names of the doculects
         wl = lingpy.Wordlist(self.raw.posix(self.DSETS[0]), col="counterpart_doculect")
 
@@ -82,5 +78,5 @@ class Dataset(qlc.QLC):
                         Parameter_ID=cid,
                         Value=form,
                         Source=[src.id],
-                        Segments=self.get_segments(form),
+                        Segments=tokenizer(form, column='IPA').split(),
                         Local_ID=id_)
