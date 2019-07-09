@@ -1,18 +1,13 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "aboutUrl": null,
-    "dc:bibliographicCitation": "Kraft, Charles H. 1981. Chadic Wordlists",
+    "dc:bibliographicCitation": "Kraft, Charles H. 1981. Chadic wordlists. Berlin: Dietrich Reimer.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Kraft-1981-434"
     ],
-    "dc:identifier": null,
-    "dc:isVersionOf": null,
-    "dc:license": null,
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Chadic Wordlists",
+    "dcat:accessURL": "https://github.com/lexibank/kraftchadic",
     "rdf:ID": "kraftchadic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -22,8 +17,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-207-gdf49abe"
             }
         }
     ],
