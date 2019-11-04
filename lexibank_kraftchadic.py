@@ -6,6 +6,7 @@ from pylexibank.dataset import Dataset as BaseDataset
 
 from clldutils.misc import slug
 
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "kraftchadic"
@@ -18,27 +19,18 @@ class Dataset(BaseDataset):
         language_lookup = args.writer.add_languages(lookup_factory="Name")
 
         # Add concepts
-        concept_lookup = {}
-        for concept in self.concepts:
-            args.writer.add_concept(
-                ID=concept["ID"],
-                Name=concept["Name"],
-                Concepticon_ID=concept["Concepticon_ID"],
-                Concepticon_Gloss=concept["Concepticon_Gloss"],
-            )
-
-            concept_lookup[concept["Name"]] = concept["ID"]
-
-        print(concept_lookup)
-
+        concept_lookup = args.writer.add_concepts(
+            id_factory=lambda x: x.number + "_" + slug(x.english),
+            lookup_factory="Name",
+        )
 
         # Add forms
         for entry in progressbar(
-            self.raw_dir.read_csv("clean_data.tsv", delimiter="\t", dicts=True)
+            self.raw_dir.read_csv("clean_data3.tsv", delimiter="\t", dicts=True)
         ):
             args.writer.add_forms_from_value(
-                Language_ID=language_lookup[entry["language"]],
-                Parameter_ID=concept_lookup[entry["concept"]],
-                Value=entry["value"],
+                Language_ID=language_lookup[entry["LANGUAGE"]],
+                Parameter_ID=concept_lookup[entry["CONCEPT"]],
+                Value=entry["VALUE"],
                 Source=["Kraft1981"],
             )

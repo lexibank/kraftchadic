@@ -16,19 +16,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/kraftchadic",
-            "dc:created": "v2.0-4-gc8138ea"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v2.0-5-g6e78e88"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.1.0-104-g9190b75"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 29493,
+            "dc:extent": 29059,
             "tableSchema": {
                 "columns": [
                     {
@@ -150,7 +150,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 68,
+            "dc:extent": 67,
             "tableSchema": {
                 "columns": [
                     {
@@ -216,7 +216,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 434,
+            "dc:extent": 433,
             "tableSchema": {
                 "columns": [
                     {
