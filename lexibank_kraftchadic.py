@@ -26,7 +26,7 @@ class Dataset(BaseDataset):
 
         # Add forms
         for entry in progressbar(
-            self.raw_dir.read_csv("clean_data3.tsv", delimiter="\t", dicts=True)
+            self.raw_dir.read_csv("clean_data.tsv", delimiter="\t", dicts=True)
         ):
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[entry["LANGUAGE"]],
