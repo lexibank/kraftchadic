@@ -4,13 +4,7 @@ from pathlib import Path
 from pylexibank import progressbar
 from pylexibank.dataset import Dataset as BaseDataset
 
-# import lingpy
-# from clldutils.misc import slug
-# from clldutils.path import Path
-# from clldutils.text import strip_chars
-# from pycldf.sources import Source
-# from pylexibank.providers import qlc
-
+from clldutils.misc import slug
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
@@ -34,6 +28,9 @@ class Dataset(BaseDataset):
             )
 
             concept_lookup[concept["Name"]] = concept["ID"]
+
+        print(concept_lookup)
+
 
         # Add forms
         for entry in progressbar(
