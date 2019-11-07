@@ -16,7 +16,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/kraftchadic",
-            "dc:created": "v2.0-10-g9e993b1"
+            "dc:created": "v2.0-11-gd54308f"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -26,15 +32,9 @@
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0-62-g552aa7f"
-        },
-        {
-            "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.0-3-g3725adc"
+            "dc:created": "v2.2.0"
         }
     ],
     "prov:wasGeneratedBy": [
