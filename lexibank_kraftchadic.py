@@ -1,4 +1,3 @@
-import attr
 from pathlib import Path
 
 from pylexibank import progressbar
