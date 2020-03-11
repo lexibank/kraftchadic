@@ -1,0 +1,308 @@
+Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+'	ʔ	H	Consonant	145	U+0027	"ir'bendeou,sime'd,tunno'i"	Bade,Bolewa,Hausa,Higibaza,Mismezime,Ngizim
+-	+	_	Marker	1	U+002D	"tə̀ɠin-tə̀yìn"	Bade
+M	M/m	M	Consonant	2	U+004D	"Mcɩ̀fɛ,Mcɩ̀fɩntsu"	Higibaza
+R	ʀ	R	Consonant	2	U+0052	"xaRàya,xi̵sci Rete"	Gabin
+a	a	A	Vowel	10195	U+0061	"gwə̀nəy gwâgwə̀ʔa,wawdεžure wɔmdɩre,ɓì̵ràta"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+b	b	P	Consonant	3692	U+0062	"bùrda,ləbòk,mòbaʔ"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+c	c	C	Consonant	1478	U+0063	"akələ̀ytùkù pic,cuwèna,cə̀p"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Boka,Bolewa,Buli,Bura,Burma,Cibak,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Wamdiu,Westmargi,Yingilum,Zvana
+d	d	T	Consonant	3854	U+0064	"maida,sɩvàndi,yɩmda"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+e	e	E	Vowel	2049	U+0065	"tere,tèmerè,ɓəmpìgre"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hwona,Jaku,Jari,Karekare,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+f	f	B	Consonant	1992	U+0066	"fulda,fùtɩn,tùf"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+g	g	K	Consonant	4670	U+0067	"gǘžì,kwugyɩvi,ɓwə̀guntsu"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+h	h	H	Consonant	1129	U+0068	"bàhà ẁutin,hwōɓ,hǿʔì"	Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Daba,Dera,Dira,Dwot,Gaanda,Gabin,Geji,Gera,Gudu,Hausa,Higibaza,Higighye,Higinkafa,Hildi,Hwona,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Ngamo,Ngizim,Ngwaxi,Njanye,Piimdi,Plci,Seya,Tangale,Wamdiu,Westmargi,Yingilum
+i	i	I	Vowel	6314	U+0069	"zəni,ɩsìʔi,ʔirɩmɩn"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+j	dʒ	T	Consonant	832	U+006A	"bə̀gwə̀jò,gə̀jà,tòjè mutùgò"	Angas,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+k	k	K	Consonant	7819	U+006B	"ki̵sì zɔwɔ̀l,kyaðɩ̀l,šɩkī̵l"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+l	l	L	Consonant	4974	U+006C	"a gì̵làsəy,li̵m,wtì̵lɩʔ"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+m	m	M	Consonant	7690	U+006D	"kaimā,ntì̵màhəw,zumšὲy"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+n	n	N	Consonant	8476	U+006E	"ngì̵rngì̵rya,nâna,vì̵kuwùn"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+o	o	U	Vowel	2243	U+006F	"ne or nwe,tiwo,tsófo"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+p	p	P	Consonant	2351	U+0070	"pi̵tò,pɩli,šugup"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+q	q	K	Consonant	1	U+0071	"irquis"	Mismezime
+r	r	R	Consonant	4931	U+0072	"bàrədà barυgà,lùvàri,wùšə̀hàrà"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+s	s	S	Consonant	3067	U+0073	"psuɗi,rə̀bə̀tusù,sàyʔɩn"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+t	t	T	Consonant	5714	U+0074	"làwùm tarà,puƚiti,ti̵rtɩ̀kânan"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+u	u	Y	Vowel	7828	U+0075	"kum kà pu ntsisù,mànvur,ɓut"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+v	v	B	Consonant	1435	U+0076	"bìɣyὲnvubìɣyè,vì̵tsentì̵vì̵tsa,əvìyə"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Bura,Burma,Cibak,Cip,Daba,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gava,Geji,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Wamdiu,Westmargi,Yingilum,Zvana
+w	w	W	Consonant	6636	U+0077	"gwùlti,vujirtuɣwè,ŋ̀gwàyə̀nda"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+x	x	G	Consonant	1618	U+0078	"mtixi̵rà,wur̂xe,xaƚùmɔ"	Banana,Boka,Bura,Cibak,Daba,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Lame,Mandara,Margi,Massa,Matakam,Nakatsa,Ngwaxi,Njanye,Piimdi,Plci,Seya,Wamdiu,Westmargi,Zvana
+y	j	J	Consonant	4614	U+0079	"kì̵skayɛ,ƚiyèwète,ʔyiŋatùʔ"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+z	z	S	Consonant	1209	U+007A	"azi̵mε,bzànto,dùgwùza"	Angas,Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+à	à/a	A	Vowel	8128	U+00E0	"dàlà,ɗàsî,ʔàði"	Angas,Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+á	á/a	A	Vowel	785	U+00E1	"mázàrə́n,wáàtε̄,šɩ̀n vìárkέ"	Bade,Bolewa,Bura,Cip,Falijilbu,Falikiria,Glvda,Gudu,Higifutu,Higinkafa,Hildi,Kilba,Lame,Lamepeve,Matakam,Mismezime,Mwulyen,Sura,Yingilum
+â	â/a	A	Vowel	454	U+00E2	"salâiɗò,taxsâɗa,ɓìlâ"	Ankwe,Bacama,Bade,Banana,Boka,Bura,Burma,Cibak,Cip,Dera,Dwot,Faligili,Falijilbu,Falikiria,Faliwagira,Gaanda,Gabin,Geji,Gude,Gudu,Hausa,Higibaza,Higikamale,Higinkafa,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Yingilum
+ã	ã	A	Vowel	30	U+00E3	"inyayã,lowã,swã"	Banana,Bura,Burma,Falijilbu,Geji,Higinkafa,Jaku,Kilba,Lame,Lamepeve,Mismezime,Plci,Yingilum
+ä	ä	A	Vowel	4	U+00E4	"zàmnä,ɓəmmäši kà hɩɗè,ɓəmmäši ɓìɗè fwət"	Ngwaxi,Njanye
+æ	æ	E	Vowel	57	U+00E6	"puřæŋkà kwuřɩkə̀y,sutsumæʔ,šæpm̦̀"	Burma,Cibak,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Higibaza,Higifutu,Higikamale,Higinkafa,Jari,Margi,Ngwaxi,Njanye,Westmargi,Yingilum
+è	è/e	E	Vowel	1490	U+00E8	"kerèk,vrèðdi,vèka"	Angas,Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Mandara,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+é	é/e	E	Vowel	128	U+00E9	"gì̵rkí̵mbi dɩ̂déʔkímbi,šə̄mbé,ɓédùbò"	Bade,Gudu,Higifutu,Jari,Kilba,Lame,Lamepeve,Matakam,Mwulyen,Sura,Yingilum
+ê	ê/e	E	Vowel	123	U+00EA	"bàantùnên,nêer,wasì̵mê"	Ankwe,Bacama,Bade,Banana,Boka,Bolewa,Burma,Cip,Dera,Dira,Dwot,Falijilbu,Falikiria,Gaanda,Gabin,Geji,Gera,Hwona,Karekare,Mandara,Margi,Matakam,Ngamo,Ngwaxi,Njanye,Pero,Plci,Seya,Sura,Tangale,Yingilum,Zvana
+ì	ì/i	I	Vowel	3462	U+00EC	"gʷukánkì,kwùcì,ɗìc"	Angas,Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+í	í/i	I	Vowel	642	U+00ED	"ífřì,ùlèí,čεřší nàtsə́rši"	Bacama,Bade,Falijilbu,Gudu,Hildi,Kilba,Lame,Lamepeve,Margi,Matakam,Mwulyen,Piimdi,Yingilum
+î	î/i	I	Vowel	240	U+00EE	"nə̀mdə fìtî,ŋgùtàn gîŋ,ǹjὲtî"	Ankwe,Bade,Banana,Boka,Bolewa,Buli,Bura,Cibak,Dera,Dira,Dwot,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Geji,Gera,Gude,Gudu,Higifutu,Hildi,Jaku,Karekare,Kilba,Lame,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Pero,Plci,Seya,Sura,Tangale,Yingilum
+ï	ɨ	I	Vowel	1	U+00EF	"nàtísùkïší na kɔúkwákuši"	Lame
+ð	ð	D	Consonant	570	U+00F0	"baði,kum nya ḿðà,ðə̀ra"	Bacama,Bade,Banana,Bananamouseye,Boka,Bura,Cibak,Daba,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gava,Geji,Glvda,Gude,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Miya,Ngizim,Ngwaxi,Pero,Piimdi,Plci,Seya,Wamdiu,Westmargi,Zvana
+ñ	ɲ	N	Consonant	28	U+00F1	"mέdífà kùmìñí,válàñí,yaɗañ"	Jaku,Kilba,Yingilum
+ò	ò/o	U	Vowel	1527	U+00F2	"kambanò,mò,pòmīskátá"	Angas,Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higikamale,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Mandara,Margi,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ó	ó/o	U	Vowel	250	U+00F3	"dókwǎa,gbórə́m,yóùvó"	Bade,Gudu,Kilba,Lame,Lamepeve,Matakam,Mismezime,Mwulyen,Yingilum
+ô	ô/o	U	Vowel	136	U+00F4	"kwô,sôy,tôŋ"	Ankwe,Bacama,Bade,Boka,Bolewa,Buli,Cip,Dera,Dwot,Gaanda,Geji,Gera,Gudu,Higibaza,Karekare,Kilba,Lame,Mandara,Matakam,Mismezime,Miya,Mwulyen,Ngamo,Ngizim,Pero,Plci,Sura,Tangale,Yingilum
+õ	õ	U	Vowel	9	U+00F5	"kwõwì,ma bi buwõ,zoŋõ"	Geji,Jaku,Lamepeve,Yingilum
+ö	ø	U	Vowel	2	U+00F6	"govörùtɔ,vödùtɔ"	Bacama
+ù	ù/u	Y	Vowel	5437	U+00F9	"ti ðù,tùfəy,wùɗa ko wùɗa làva"	Angas,Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Mandara,Margi,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ú	ú/u	Y	Vowel	591	U+00FA	"húbà,máhúnàː,ǹzúmtígí"	Bade,Bura,Falimucella,Gaanda,Glvda,Gudu,Higifutu,Hildi,Kilba,Lame,Lamepeve,Mwulyen,Sura,Westmargi,Yingilum
+û	û/u	Y	Vowel	143	U+00FB	"kàr̃gûn,wùrwûru,ûu"	Ankwe,Bacama,Bade,Banana,Bankala,Boka,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Geji,Gera,Gude,Gudu,Hausa,Higibaza,Higinkafa,Hwona,Karekare,Kilba,Lame,Mandara,Margi,Miya,Ngamo,Ngizim,Ngwaxi,Pero,Plci,Seya,Sura,Tangale,Westmargi,Yingilum
+ü	y	Y	Vowel	25	U+00FC	"hanútsü,píːtsü,ŋgi̵rœ́dü"	Bacama,Dera,Gudu,Kilba,Lame,Ngwaxi
+ý	ý/j	J	Consonant	7	U+00FD	"àhýaʔátǜ,ŋgέski̵leýn,ɗýuʔ ɗìwí"	Gudu,Kilba,Lame,Mwulyen,Yingilum
+ÿ	ʏ	Y	Vowel	1	U+00FF	"lɩ̀ÿà"	Mandara
+ā	ā/a	A	Vowel	525	U+0101	"kāšīšɩ̄mà,yàxurā,zūcìyā"	Angas,Falikiria,Gaanda,Gude,Gudu,Hausa,Higifutu,Hildi,Hwona,Kilba,Lame,Lamepeve,Westmargi,Yingilum
+ă	ă/a	A	Vowel	1	U+0103	"kă r̃i"	Higinkafa
+č	tʃ	T	Consonant	164	U+010D	"číř,čúmò,čúpkyε̄"	Gaanda,Gudu,Kilba,Lame,Margi,Mwulyen,Nakatsa,Pero,Yingilum
+ē	ē/e	E	Vowel	57	U+0113	"céfāɗēo,də̂ŋsùmē,làujē"	Angas,Gudu,Hausa,Hildi,Hwona,Lame,Lamepeve,Yingilum
+ě	ě/e	E	Vowel	11	U+011B	"yέšě,šíptě,šěnde"	Cip,Gaanda,Gabin,Gudu,Lame,Yingilum
+ĩ	ĩ	I	Vowel	25	U+0129	"fáĩὲ,kĩĩ,ĩỹ̀ã́w̃"	Banana,Falijilbu,Falikiria,Lame,Lamepeve,Margi,Miya,Ngwaxi,Yingilum
+ī	ī/i	I	Vowel	194	U+012B	"gī gēl,lōkàcī,yīɗāwa"	Angas,Falikiria,Gude,Gudu,Hausa,Hildi,Hwona,Kilba,Lame,Lamepeve,Westmargi,Yingilum
+ń	ń/n	N	Consonant	33	U+0144	"ńcà,ńdi̵dùm mànduki,ńnà"	Bacama,Bura,Cibak,Falijilbu,Glvda,Gude,Hwona,Lame,Margi,Matakam,Mwulyen,Wamdiu,Westmargi,Yingilum,Zvana
+ņ	n̩	N	Consonant	1	U+0146	"ņɬanumà"	Gava
+ň	ň/n	N	Consonant	1	U+0148	"àřtɩ́ňśi amtɩnší"	Lame
+ŋ	ŋ	N	Consonant	2237	U+014B	"a ŋwùr̃aŋwura,dúŋgál,gì̵ski̵ŋ"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ō	ō/o	U	Vowel	74	U+014D	"gyàmbō,gōnā,sābō"	Angas,Gudu,Hausa,Kilba,Lame,Lamepeve,Pero,Yingilum
+œ	œ	U	Vowel	5	U+0153	"moœ,pobœmbi əŋ,túbœz"	Gudu
+ŕ	ŕ/r	R	Consonant	1	U+0155	"núr guŕfē bə̀ti̵βà"	Yingilum
+ř	ɽ	R	Consonant	308	U+0159	"càvi̵řε,dέř,mə́ř"	Bacama,Bura,Faligili,Falikiria,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Kilba,Lame,Matakam,Pero,Westmargi,Yingilum
+ś	ś/s	S	Consonant	5	U+015B	"àřtɩ́ňśi amtɩnší,ɣàyakśkśà,ɣə̀ykśkśà"	Gava,Glvda,Lame
+š	ʃ	S	Consonant	1404	U+0161	"mə́šὲn,šaru,šəm gwe"	Angas,Ankwe,Bacama,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Mandara,Margi,Matakam,Miya,Mwulyen,Nakatsa,Ngamo,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ũ	ũ	Y	Vowel	55	U+0169	"tì̵lèmwũ,ŋgarũ,ɓwàkũ"	Banana,Bankala,Faligili,Falijilbu,Falikiria,Gude,Gudu,Lame,Miya,Yingilum
+ū	ū/u	Y	Vowel	190	U+016B	"ntsʔàɓū,tšíʔūnì,tūàvwá"	Angas,Falikiria,Gude,Gudu,Hausa,Hildi,Hwona,Kilba,Lame,Lamepeve,Westmargi,Yingilum
+ž	ʒ	S	Consonant	331	U+017E	"wət žà,žàbura,žυbυr"	Angas,Ankwe,Bacama,Bura,Cip,Daba,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gava,Geji,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Jaku,Jari,Kilba,Lame,Mandara,Margi,Matakam,Miya,Nakatsa,Ngizim,Pero,Plci,Seya,Sura,Wamdiu,Westmargi,Yingilum,Zvana
+ƙ	kʼ	K	Consonant	53	U+0199	"kə̀ƙi,ƙishirwā,ƙudā"	Bade,Bolewa,Dera,Glvda,Hausa
+ƚ	lˠ	L	Consonant	1016	U+019A	"zup ƚiyè ròp,ƚti wà gàmba ƚti wà nto,ƚûwe"	Ankwe,Bade,Banana,Boka,Buli,Bura,Burma,Cibak,Daba,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Karekare,Kilba,Lame,Mandara,Margi,Matakam,Mismezime,Miya,Nakatsa,Ngizim,Ngwaxi,Piimdi,Plci,Seya,Wamdiu,Westmargi
+ǎ	ǎ/a	A	Vowel	68	U+01CE	"dùwǎtù,rwyǎdùː,wǎr"	Bacama,Banana,Boka,Burma,Cip,Falimucella,Faliwagira,Gaanda,Gabin,Glvda,Gude,Gudu,Hwona,Kilba,Lame,Mismezime,Ngizim,Plci,Seya,Sura,Yingilum
+ǐ	ǐ/i	I	Vowel	48	U+01D0	"bǐy,mûyǐ,pâmti pâmtì šǐti"	Banana,Bankala,Cip,Dera,Faligili,Falikiria,Falimucella,Gaanda,Gabin,Gera,Gudu,Jaku,Karekare,Kilba,Lame,Mwulyen,Seya,Tangale,Westmargi,Yingilum
+ǒ	ǒ/o	U	Vowel	13	U+01D2	"fwǒtà,rǒtí,vǒ"	Banana,Cip,Dera,Higibaza,Jaku,Lame,Plci
+ǔ	ǔ/u	Y	Vowel	55	U+01D4	"lǔm bə̀nì ɓabu mòɣɔ,r̃ǔ,yenǔ"	Banana,Boka,Cip,Falikiria,Falimucella,Gude,Gudu,Higibaza,Jaku,Kilba,Lame,Margi,Piimdi,Plci,Yingilum
+ǖ	ǖ/y	Y	Vowel	23	U+01D6	"lípǖlà,zǖdέřpúčì,ālǘbtǖ"	Gudu,Kilba
+ǘ	ǘ/y	Y	Vowel	58	U+01D8	"àtsǘkāndà,ŋ̀gǘðà,ǜtsǘmə́sâː"	Gudu,Kilba,Lame
+ǜ	ǜ/y	Y	Vowel	46	U+01DC	"ábǜs,ālǘmtǜ,āsǘkǜ"	Gudu,Kilba
+ǣ	ǣ/æ	E	Vowel	1	U+01E3	"kamyǣɗu"	Hildi
+ǧ	ǧ/g	K	Consonant	1	U+01E7	"ǰéǧὲ"	Yingilum
+ǰ	dʒ	T	Consonant	120	U+01F0	"dīǰə́m,ǰíhu vuřá,ǰεǹja"	Boka,Bolewa,Gaanda,Gabin,Gudu,Hwona,Kilba,Lame,Mwulyen,Ngwaxi,Njanye,Piimdi,Westmargi,Yingilum
+ǹ	ǹ/n	N	Consonant	184	U+01F9	"gùmi̵ nu ǹƚti,ǹgɩ̀là,ǹzàr̃wànì"	Ankwe,Bacama,Bade,Banana,Bankala,Bolewa,Bura,Cibak,Cip,Daba,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Gaanda,Gava,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Jaku,Karekare,Kilba,Lame,Matakam,Mwulyen,Nakatsa,Ngamo,Ngizim,Njanye,Plci,Sura,Wamdiu,Westmargi,Yingilum
+ǽ	ǽ/æ	E	Vowel	7	U+01FD	"wyǽdùwyǽdù,ùʔǽtì̵n,ʔỳǽr̃"	Faligili,Gudu,Mwulyen,Yingilum
+ǿ	ǿ/ø	U	Vowel	5	U+01FF	"dǿl,hǿl,hǿʔì"	Kilba
+ɓ	ɓ	P	Consonant	1253	U+0253	"yoli̵ɓatsà,ɓin,ɓī̵lī̵mu"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ɔ	ɔ	U	Vowel	567	U+0254	"cɔɣvwὲ,kwɔŋ,žɔŋ"	Ankwe,Bacama,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Cibak,Cip,Dira,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gabin,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Jaku,Jari,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Ngamo,Ngwaxi,Njanye,Pero,Piimdi,Plci,Wamdiu,Westmargi,Yingilum
+ɗ	ɗ	T	Consonant	2520	U+0257	"a ɗɩnkɩtso,pəɗə̀m,ɗìbî"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Karekare,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Zvana
+ə	ə	E	Vowel	3728	U+0259	"jixən,tsɩ̀kər,wəda"	Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Lame,Lamepeve,Mandara,Margi,Matakam,Miya,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ɛ	ɛ	E	Vowel	460	U+025B	"kùm mbwɛy,pɛnbet,tsɩ̀yɛ"	Angas,Ankwe,Bacama,Cip,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gudu,Higibaza,Higikamale,Hildi,Jaku,Jari,Kilba,Mandara,Mwulyen,Ngwaxi,Wamdiu,Westmargi
+ɠ	ɠ	K	Consonant	99	U+0260	"ɠuɠwò,ɠyi,ɠyɛ̂"	Angas,Bade,Faligili,Falijilbu,Faliwagira,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Mandara,Margi,Mwulyen
+ɣ	ɣ	G	Consonant	989	U+0263	"dūɣūrā,tə̀ɣɩ̀s,xyὲlàtaɣùmu"	Banana,Bankala,Bura,Cibak,Dera,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gava,Glvda,Gude,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Kilba,Mandara,Margi,Nakatsa,Ngwaxi,Pero,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Zvana
+ɦ	ɦ	H	Consonant	6	U+0266	"ɦali̵vàr̃ì,ɦambɩ̀ƚa,ɦàū"	Margi,Yingilum
+ɩ	ɪ	I	Vowel	1692	U+0269	"mɩncὲ,xyɩmbɩ̀lì,šɩp wùs"	Angas,Ankwe,Bacama,Banana,Bankala,Boka,Bolewa,Bura,Burma,Cibak,Dira,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Geji,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Kilba,Lame,Mandara,Margi,Matakam,Miya,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Seya,Wamdiu,Westmargi,Yingilum
+ɪ	ɪ	I	Vowel	69	U+026A	"mɪ̀šɪ,sɪmgì̵s,ƚìyɪrƚù"	Buli,Burma,Plci
+ɬ	ɬ	L	Consonant	99	U+026C	"hə̀wyà ɗè mè ni̵ɗè kuɬ,zuɓì ɗè ni̵m nì̵ɗè kuɬ,ɬùwè"	Gava,Geji,Zvana
+ɲ	ɲ	N	Consonant	4	U+0272	"mέƚùkùmìñí táríɲà tûfù,mέƚùkùmìñí táríɲà žáŋ,ɲá"	Kilba
+ʌ	ʌ	E	Vowel	7	U+028C	"cʌn,gʷučə́fʌɗíʔò,zúvʌn"	Gudu,Lame,Pero
+ʒ	ʒ	S	Consonant	13	U+0292	"bik vinʒa,tǎ ʒoù,ʒoutouko"	Mismezime
+ʔ	ʔ	H	Consonant	1640	U+0294	"aʔu,decεʔὲ,ʔiwè"	Ankwe,Bacama,Banana,Bananamouseye,Bankala,Boka,Bolewa,Bura,Cibak,Cip,Dera,Dira,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Sura,Tangale,Wamdiu,Westmargi,Yingilum
+έ	έ/ɛ	E	Vowel	108	U+03AD	"lέm,tõ̂rέ,tέptsü"	Bura,Gudu,Kilba,Lame,Matakam,Mwulyen,Yingilum
+β	β	B	Consonant	9	U+03B2	"téiβə̀,βialtíbóná,βɩ́čə́rū"	Yingilum
+ε	ɛ	E	Vowel	849	U+03B5	"landε,wεɓwyâm,àjε"	Bankala,Boka,Bolewa,Bura,Cibak,Dira,Gaanda,Gabin,Gude,Higifutu,Higighye,Higinkafa,Hwona,Lame,Margi,Massa,Matakam,Miya,Ngamo,Ngizim,Njanye,Pero,Piimdi,Wamdiu,Westmargi,Yingilum
+θ	θ	D	Consonant	29	U+03B8	"dok θeŋe,θεɗa,θεɗε"	Massa
+υ	ʊ	Y	Vowel	274	U+03C5	"kυlbù tυm kika,ɗɩyədàɗik kυdυgà,ˀuɓυlà"	Glvda,Seya
+ύ	ύ/ʊ	Y	Vowel	1	U+03CD	"ḿtsύgà"	Glvda
+ѵ	ⱱ	W	Consonant	20	U+0475	"kàmhѵrѵ̀m,kѵtkѵ̀t,kѵtɪr"	Burma
+ḕ	ḕ/e	E	Vowel	39	U+1E15	"yā ƙōnḕ,yā ɓōyḕ,ƙadangarḕ"	Hausa,Sura
+ḯ	ḯ/ɨ	I	Vowel	1	U+1E2F	"ḯŋwì̵u"	Lame
+ḿ	ḿ/m	M	Consonant	52	U+1E3F	"ḿbì,ḿcì,ḿtæ̀"	Bacama,Bura,Cibak,Gava,Glvda,Higikamale,Lame,Mandara,Margi,Matakam,Mwulyen,Ngamo,Seya,Wamdiu,Westmargi,Zvana
+ṍ	ṍ/õ	U	Vowel	3	U+1E4D	"mbɔ̃̀yṍ,mṍʔũ̀,šàrṍ"	Yingilum
+ṑ	ṑ/o	U	Vowel	15	U+1E51	"gṑbe,tṑkā,yā kṑyā"	Hausa
+ṛ	ṛ/r	R	Consonant	23	U+1E5B	"tàṛà,wùṛàr̃a,ƚɩƚɩbuṛa"	Hildi,Hwona
+ṹ	ṹ/ũ	Y	Vowel	16	U+1E79	"fṹṹwĩ́ὲ,fṹỹὲ,myĩ́ã̀ṹ"	Lame,Yingilum
+ẁ	ẁ/w	W	Consonant	7	U+1E81	"cilɩ̀hẁõ,sẁìdɪ,ẁni"	Buli,Geji,Higifutu,Miya,Njanye,Westmargi
+ẃ	ẃ/w	W	Consonant	1	U+1E83	"ẃò"	Mwulyen
+ẑ	ẑ/z	S	Consonant	1	U+1E91	"yà ẑɩ̀ŋgè"	Dira
+ẽ	ẽ	E	Vowel	4	U+1EBD	"biyẽla,mẽæ̀,pèmẽ"	Banana,Kilba,Sura
+ỳ	ỳ/j	J	Consonant	8	U+1EF3	"rέỳ bə̀ šə́m kɩ́nàn,ɓỳárà,ỳá"	Daba,Faligili,Gava,Gera,Gudu,Higinkafa,Yingilum
+ỹ	ỹ	Y	Vowel	12	U+1EF9	"ǰóiỹὲ,ǰõỹõ,ỹǎ"	Lame,Yingilum
+ὲ	ὲ/ɛ	E	Vowel	764	U+1F72	"kyὲgu,ndəkwὲy,ŋ̀kwàxὲ"	Angas,Ankwe,Bacama,Bankala,Boka,Bolewa,Bura,Cibak,Dira,Faligili,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Kilba,Lame,Mandara,Margi,Matakam,Miya,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Wamdiu,Westmargi,Yingilum
+ὺ	ὺ/ʊ	Y	Vowel	194	U+1F7A	"dυk tὺɣàlà,fa fὺgà,ǹðàɣə̀roŋ ðὺgà"	Glvda,Seya
+I̵	ɨ	I	Vowel	55	U+0049 U+0335	"kI̵nənci,tɩrtikagI̵n,šomtI̵nǰelaʔa"	Boka,Gabin,Piimdi
+M̀	M̀/m	M	Consonant	2	U+004D U+0300	"M̀ki,M̀pa"	Higifutu
+^ˀ	ʔ	H	Consonant	142	U+005E U+02C0	"ˀafkà,ˀajìŋgi,ˀavdà"	Buli,Dwot,Gava,Geji,Glvda,Seya
+aˀ	a ʔ	A H	Vowel Consonant	12	U+0061 U+02C0	"dùkxwaˀà,naˀwì,ɣùzaˀa"	Burma,Dwot,Geji,Glvda,Seya,Zvana
+aː	aː	A	Vowel	5	U+0061 U+02D0	"dɩ́vaː,mbaːtu,yaːrúm"	Gudu,Yingilum
+bʷ	b w	P W	Consonant Consonant	5	U+0062 U+02B7	"bʷoyì,bʷoɓò,bʷã̀ĩ́"	Dera,Lame,Tangale
+dz	dz	C	Consonant	337	U+0064 U+007A	"dzop,dzùgwùɗu,ƚkwâmti ndzaramti"	Banana,Bura,Burma,Cibak,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gava,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Kilba,Mandara,Margi,Matakam,Miya,Nakatsa,Ngwaxi,Njanye,Plci,Seya,Wamdiu,Zvana
+fʷ	fʷ	B	Consonant	4	U+0066 U+02B7	"fʷofurùm,fʷok,fʷòšindì"	Tangale
+fˋ	fʼ	B	Consonant	1	U+0066 U+02CB	"ʔùfˋwàrā"	Hwona
+gʷ	gʷ	K	Consonant	19	U+0067 U+02B7	"gʷuhʷo ɓo wá fúɗi,gʷukánkì,gʷuɓu wá hínčìʔí"	Dera,Lame
+hʷ	hʷ	H	Consonant	6	U+0068 U+02B7	"gʷuhʷo ɓo wá fúɗi,gʷuhʷo ɓo wá vʌ̀l,hʷóɓò"	Lame
+iˀ	i ʔ	I H	Vowel Consonant	8	U+0069 U+02C0	"fiˀìm saka,nyɩ̀ciˀ,nyɩ̀ciˀ vwə̀rì"	Dwot,Seya,Zvana
+i̵	ɨ	I	Vowel	2192	U+0069 U+0335	"ki̵sì zɔwɔ̀l,si̵r̃ ku marè ka ntufù,ŋgùdàŋgùmtum mi̵ki̵ɗε"	Angas,Ankwe,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dira,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Lame,Mandara,Margi,Miya,Nakatsa,Ngizim,Ngwaxi,Njanye,Piimdi,Plci,Seya,Sura,Wamdiu,Westmargi,Yingilum,Zvana
+kʷ	kʷ	K	Consonant	8	U+006B U+02B7	"kʷu,kʷátú,kʷòmbolò"	Lame,Tangale
+kˀ	kˀ	K	Consonant	1	U+006B U+02C0	"lokˀeðì"	Dwot
+m̀	m̀/m	M	Consonant	197	U+006D U+0300	"m̀bórá,m̀ðìmbu dì̵vus ki̵fi,yòʔòm̀ənci"	Ankwe,Bacama,Bade,Bankala,Buli,Bura,Burma,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Gabin,Gava,Gera,Glvda,Gude,Gudu,Higifutu,Higighye,Higikamale,Higinkafa,Karekare,Kilba,Lame,Margi,Matakam,Mwulyen,Nakatsa,Ngamo,Sura,Westmargi,Yingilum,Zvana
+m̂	m̂/m	M	Consonant	1	U+006D U+0302	"am̂"	Plci
+m̄	m̄/m	M	Consonant	1	U+006D U+0304	"kwām̄álákù"	Kilba
+m̌	m̌/m	M	Consonant	1	U+006D U+030C	"læ̀m̌kwá"	Lame
+m̦	m̩	M	Consonant	5	U+006D U+0326	"m̦bì̵n,vɩ̀ndὺbm̦,ˀà fυbm̦"	Buli,Burma,Seya
+n̄	n̄/n	N	Consonant	1	U+006E U+0304	"n̄dέl"	Kilba
+n̦	n̦/n̩	N	Consonant	6	U+006E U+0326	"bə̀rkυɗn̦na,ci̵gn̦,n̦nè"	Seya
+oˀ	o ʔ	U H	Vowel Consonant	2	U+006F U+02C0	"toˀar,ǹdoˀàm"	Dwot
+oː	oː	U	Vowel	1	U+006F U+02D0	"toːbán"	Gudu
+p̃	p̃	P	Consonant	2	U+0070 U+0303	"p̃î,p̃ɩɣò"	Pero
+p̵	pˤ	P	Consonant	28	U+0070 U+0335	"p̵ƚtìyùmsi,wɔp̵sεši̵ri,ɣə̀ndap̵ƚtu"	Higibaza,Higifutu,Higighye,Higikamale,Higinkafa
+rˀ	rˀ	R	Consonant	1	U+0072 U+02C0	"jirˀùn"	Dwot
+r̀	r̀/r	R	Consonant	3	U+0072 U+0300	"diwa ɬr̀và,gíːr̀amóbœ̀d,i̵r̀ŋar"	Gava,Gudu,Plci
+r̂	r̂/r	R	Consonant	16	U+0072 U+0302	"dɩ̀r hɔɔr̂ɗò,kyæŋkyεr̂,ʔur̂wà"	Bade,Hildi,Jaku,Mandara,Margi,Matakam,Nakatsa,Ngamo
+r̃	r̃	R	Consonant	1042	U+0072 U+0303	"bi̵r̃i̵bì̵r̃,ku ni kulùr̃,tsi̵vur̃"	Angas,Bacama,Bade,Banana,Bankala,Bolewa,Bura,Cibak,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gava,Glvda,Gude,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Karekare,Kilba,Lame,Mandara,Margi,Matakam,Nakatsa,Ngamo,Ngizim,Ngwaxi,Pero,Piimdi,Sura,Tangale,Wamdiu,Westmargi,Zvana
+ts	ts	C	Consonant	714	U+0074 U+0073	"a tsanana,tsuɓà bità,tsəmpùwà"	Ankwe,Boka,Bolewa,Bura,Burma,Cibak,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gava,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jari,Karekare,Kilba,Lame,Mandara,Margi,Matakam,Miya,Mwulyen,Nakatsa,Ngwaxi,Njanye,Plci,Seya,Wamdiu,Yingilum,Zvana
+tʷ	t w	T W	Consonant Consonant	1	U+0074 U+02B7	"tʷôn"	Tangale
+uˀ	u ʔ	Y H	Vowel Consonant	5	U+0075 U+02C0	"muˀur,nzuˀù,suˀòh"	Dwot
+uː	uː	Y	Vowel	1	U+0075 U+02D0	"twuː"	Yingilum
+v̀	v̀/v	B	Consonant	1	U+0076 U+0300	"ŋgà fiyagu v̀ní"	Bacama
+v́	v́/v	B	Consonant	1	U+0076 U+0301	"v́dàkũ"	Falijilbu
+w̃	w̃	W	Consonant	3	U+0077 U+0303	"bùw̃ə́rlə́m̀bí̵ř,kwàmàdèdéá mũw̃áko,ĩỹ̀ã́w̃"	Lame,Yingilum
+x̀	x̀/x	G	Consonant	6	U+0078 U+0300	"kwulo x̀kùrɗà,xx̀kυrɗà,ˀà x̀əɓuwà"	Gava,Glvda
+yʷ	ɪ w	I W	Vowel Consonant	1	U+0079 U+02B7	"yʷarì"	Tangale
+Ì̵	Ì̵/ɨ	I	Vowel	16	U+00CC U+0335	"fÌ̵ɗətə̀,kÌ̵di,kÌ̵ttàɗI̵xi"	Boka,Gabin,Piimdi
+àˀ	à/a ʔ	A H	Vowel Consonant	7	U+00E0 U+02C0	"cinàˀɪr,wusurmàˀə̀y,zùbì wusurmàˀəy"	Buli,Dwot,Geji,Zvana
+àː	àː/aː	A	Vowel	48	U+00E0 U+02D0	"gə́ːwàː,yέːbàː,údàː"	Gudu,Lame,Mwulyen
+áː	áː/aː	A	Vowel	38	U+00E1 U+02D0	"màtáːwéy,ûmsáː,ŋ̀gáːlbòtí"	Gudu,Lame,Mwulyen
+âˀ	â/a ʔ	A H	Vowel Consonant	1	U+00E2 U+02C0	"wâˀəy"	Dwot
+âː	âː/aː	A	Vowel	6	U+00E2 U+02D0	"nâːn,ráì tâːn,àŋɓâːgún"	Gudu,Mwulyen,Yingilum
+ã̀	ã̀/ã	A	Vowel	17	U+00E3 U+0300	"bə̀xã̀,gã́ã̀,kəxã̀"	Banana,Falijilbu,Lame,Mwulyen,Yingilum
+ã́	ã́/ã	A	Vowel	9	U+00E3 U+0301	"hwã́nὲ,ĩỹ̀ã́w̃,ỹã̀ĩ́ỹã́"	Lame,Yingilum
+ã̂	ã̂/ã	A	Vowel	3	U+00E3 U+0302	"fwalã̂,mì̵dã̂y,yã̂zì"	Falijilbu,Geji
+ã̄	ã̄/ã	A	Vowel	2	U+00E3 U+0304	"tã̄ŋgò,ñ̄yã̄"	Gudu,Yingilum
+æ̀	æ̀/æ	E	Vowel	98	U+00E6 U+0300	"ki̵læ̀,mẽæ̀,tuksæ̀di tìgsì̵ɗi"	Cibak,Dwot,Faligili,Falijilbu,Faliwagira,Higifutu,Higikamale,Higinkafa,Hwona,Jaku,Jari,Kilba,Lame,Ngwaxi,Njanye,Westmargi
+æ̌	æ̌/æ	E	Vowel	1	U+00E6 U+030C	"myæ̌ké"	Lame
+èː	èː/eː	E	Vowel	5	U+00E8 U+02D0	"dèːnóə,rídèː,šímbèːrí"	Gudu,Mwulyen,Yingilum
+éː	éː/eː	E	Vowel	6	U+00E9 U+02D0	"kéːrèmə́yképàn,mə́yɗéːnũ̀n,ɓéːrí"	Gudu,Mwulyen
+êː	êː/eː	E	Vowel	1	U+00EA U+02D0	"ʔêːní"	Mwulyen
+ìː	ìː/iː	I	Vowel	4	U+00EC U+02D0	"bùgɩ́dà bìːtá,mbúksìː,wúřšìː"	Gudu,Lame
+ì̵	ì̵/ɨ	I	Vowel	1726	U+00EC U+0335	"kwaɗì̵gə̄w,mi̵tsì̵m,ɣùr̃ì̵xwɩ"	Angas,Ankwe,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dira,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Kilba,Lame,Mandara,Margi,Miya,Mwulyen,Nakatsa,Ngizim,Ngwaxi,Njanye,Piimdi,Plci,Seya,Sura,Wamdiu,Westmargi,Yingilum,Zvana
+íː	íː/iː	I	Vowel	9	U+00ED U+02D0	"gíːr̀amóbœ̀d,gùíːnà,píːtsü"	Gudu,Lame,Yingilum
+í̵	í̵/ɨ	I	Vowel	60	U+00ED U+0335	"mí̵ƚū,nádí̵rã̀ gwàbhìέl,tɩnuàřiří̵mdíè tɩ̀nvàrí"	Bura,Gudu,Hildi,Kilba,Lame,Mwulyen,Yingilum
+î̵	î̵/ɨ	I	Vowel	25	U+00EE U+0335	"jɩ̀kî̵y,xatî̵kwɔ̀ri,ɗî̵r"	Ankwe,Buli,Falijilbu,Falikiria,Faliwagira,Gaanda,Gabin,Geji,Higibaza,Ngizim,Plci,Westmargi
+ï̀	ï̀/ɨ	I	Vowel	1	U+00EF U+0300	"bï̀dúm̀mé hulkwá"	Lame
+ñ̄	ñ̄/ɲ	N	Consonant	1	U+00F1 U+0304	"ñ̄yã̄"	Gudu
+òː	òː/oː	U	Vowel	1	U+00F2 U+02D0	"kwòː"	Gudu
+óː	óː/oː	U	Vowel	12	U+00F3 U+02D0	"góːmbǘ,hàlóːhútsú,sùbóː"	Gudu,Lame,Mwulyen,Yingilum
+õ̀	õ̀/õ	U	Vowel	6	U+00F5 U+0300	"mõ̀gũla,nã́yõ̀,túõ̀õ̀nǰέ"	Banana,Yingilum
+õ̂	õ̂/õ	U	Vowel	1	U+00F5 U+0302	"tõ̂rέ"	Yingilum
+ùː	ùː/uː	Y	Vowel	10	U+00F9 U+02D0	"búbùːtà,kùkùːřá,máwúɗùː"	Gudu,Lame
+úː	úː/uː	Y	Vowel	14	U+00FA U+02D0	"lúːmò,lúːmù,ʔúːn"	Gudu,Mwulyen,Yingilum
+ü̃	ü̃/ỹ	Y	Vowel	1	U+00FC U+0303	"ířvü̃"	Gudu
+āː	āː/a	A	Vowel	5	U+0101 U+02D0	"kāː,māːdítsǜː,māːkə́n"	Gudu
+ā̀	ā̀/aː	A	Vowel	123	U+0101 U+0300	"gwīwā̀,yā hūdā̀,àkwiyā̀"	Hausa,Hildi
+ā́	ā́/aː	A	Vowel	2	U+0101 U+0301	"fā́,sā́tǖčá"	Hildi,Kilba
+ā̂	ā̂/aː	A	Vowel	7	U+0101 U+0302	"gōmà shā̂ takwàs,gōmà shā̂ ukù,gōmà shā̂ ɗaya"	Hausa
+ā̌	ā̌/aː	A	Vowel	2	U+0101 U+030C	"ìnā̌,šèkɩ̀tā̌"	Gaanda
+ēː	ēː/eː	E	Vowel	2	U+0113 U+02D0	"hēːməŋ,ǰēːdè"	Gudu,Yingilum
+ĩ̀	ĩ̀/ĩ	I	Vowel	2	U+0129 U+0300	"nĩ̀rí"	Yingilum
+ĩ́	ĩ́/ĩ	I	Vowel	14	U+0129 U+0301	"hĩ́ãũ,hīʔĩ́kε̄,nĩ́řì"	Lame,Yingilum
+ĩ̵	ĩ̵/ɨ̃	I	Vowel	4	U+0129 U+0335	"bàkòdzɩhĩ̵,nzì̵kĩ̵y,tù àɗaft tsuŋgurĩ̵mí"	Falijilbu,Miya,Njanye
+īː	īː/iː	I	Vowel	1	U+012B U+02D0	"īːšàú"	Gudu
+ī̀	ī̀/iː	I	Vowel	32	U+012B U+0300	"hancī̀,rī̀gā,yā sanī̀"	Hausa
+ī̵	ī̵/ɨ	I	Vowel	45	U+012B U+0335	"mī̵kâ,ndzī̵gādāƚtì,ƚī̵ƚɩ̄ndà"	Angas,Falikiria,Gude,Hildi,Hwona,Kilba,Westmargi,Yingilum
+ņ̀	ņ̀/n̩	N	Consonant	25	U+0146 U+0300	"kàkəˀh jikədņ̀,zυgņ̀,žògņ̀"	Bade,Buli,Burma,Dwot,Seya
+ņ́	ņ́/n̩	N	Consonant	9	U+0146 U+0301	"watsə̀dņ́,ƚètņ́,ɓwàdņ́"	Dwot,Seya
+ŋ̀	ŋ̀/ŋ	N	Consonant	101	U+014B U+0300	"yà ŋ̀gyê,ŋ̀gwàƚà,ŋ̀gwùyên"	Bacama,Bade,Bura,Cibak,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gava,Glvda,Gude,Gudu,Higighye,Higikamale,Higinkafa,Jaku,Karekare,Kilba,Lame,Mandara,Matakam,Mwulyen,Seya,Sura,Westmargi,Yingilum,Zvana
+ŋ́	ŋ́/ŋ	N	Consonant	27	U+014B U+0301	"màƚàka ŋ́gwàz,ŋ́gà,ɩŋ́kí"	Falikiria,Gava,Glvda,Higikamale,Hildi,Kilba,Lamepeve,Margi,Matakam,Wamdiu,Westmargi,Yingilum,Zvana
+ŋ̃	ŋ	N	Consonant	2	U+014B U+0303	"kyɛŋ̃,woŋ̃"	Jaku
+œ̀	œ̀/œ	U	Vowel	6	U+0153 U+0300	"kí̵lkpœ̀,pu mbi bœ̀k,írvœ̀"	Gudu,Yingilum
+œ́	œ́/œ	U	Vowel	11	U+0153 U+0301	"mbœ́ksü,tœ́vǜː,čœ́d"	Gudu
+œ̄	œ̄/œ	U	Vowel	1	U+0153 U+0304	"m̀bœ̄b"	Gudu
+œ̌	œ̌/œ	U	Vowel	1	U+0153 U+030C	"œ̌mə̀ŋ"	Gudu
+ũː	ũː	Y	Vowel	1	U+0169 U+02D0	"nũːří"	Yingilum
+ũ̀	ũ̀/ũ	Y	Vowel	20	U+0169 U+0300	"kũ̀ŋ́,mə́yɗéːnũ̀n,vũ̀yṹ"	Falijilbu,Gudu,Yingilum
+ũ̂	ũ̂/ũ	Y	Vowel	21	U+0169 U+0302	"gwɔ̀ɓàkũ̂,kùmàkũ̂,mi̵cũ̂"	Bankala,Falijilbu
+ūː	ūː/uː	Y	Vowel	2	U+016B U+02D0	"wūːnyā,wūːná"	Yingilum
+ū̀	ū̀/uː	Y	Vowel	6	U+016B U+0300	"duhū̀,hùntūrū̀,mūgū̀"	Hausa,Kilba
+ǎː	ǎː/aː	A	Vowel	1	U+01CE U+02D0	"nyǎːmábyâ"	Gudu
+ǐ̵	ǐ̵/ɨ	I	Vowel	4	U+01D0 U+0335	"gǐ̵n,kì̵tǐ̵ŋ,njənǐ̵"	Cip,Plci
+ǘː	ǘː/yː	Y	Vowel	2	U+01D8 U+02D0	"dǘːhǜn,mándǘːrà"	Gudu
+ǜː	ǜː/yː	Y	Vowel	2	U+01DC U+02D0	"māːdítsǜː,tœ́vǜː"	Gudu
+ɔ̀	ɔ̀/ɔ	U	Vowel	439	U+0254 U+0300	"fɔrəcɔ̀,tugumɔ̀ʔ,wɔ̀to"	Ankwe,Bacama,Banana,Bankala,Boka,Buli,Bura,Cibak,Cip,Dira,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gabin,Gude,Gudu,Higibaza,Higifutu,Higighye,Hildi,Jaku,Jari,Kilba,Lame,Mandara,Margi,Matakam,Mwulyen,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Wamdiu,Westmargi,Yingilum
+ɔ́	ɔ́/ɔ	U	Vowel	14	U+0254 U+0301	"hε̄mɔ́,pòfɔ́rfwád,vɔ́rtsù"	Gudu,Kilba,Lame,Mwulyen,Yingilum
+ɔ̂	ɔ̂/ɔ	U	Vowel	16	U+0254 U+0302	"bâm bìɗi fwɔ̂fwə̀t,pɩndi lukwɔ̀ tɩlɔ̂n,ʔwɔ̀sɔ̂"	Ankwe,Bacama,Falijilbu,Falikiria,Gude,Lame,Ngamo,Pero,Westmargi
+ɔ̃	ɔ̃	U	Vowel	1	U+0254 U+0303	"hùyɔkɔ̃"	Banana
+ɔ̄	ɔ̄/ɔ	U	Vowel	10	U+0254 U+0304	"fwɔ̄ɗù,kubɔ̄,mumɔ̄"	Gude,Gudu,Hildi,Pero,Yingilum
+ɔ̌	ɔ̌/ɔ	U	Vowel	2	U+0254 U+030C	"kɔ̌m,rɔ̌k"	Cip,Plci
+əˀ	ə ʔ	E H	Vowel Consonant	3	U+0259 U+02C0	"kwəˀal,kàkəˀh jikədņ̀,təˀəytux"	Dwot,Seya
+ə̀	ə̀/ə	E	Vowel	2908	U+0259 U+0300	"bə̀yà,nə̀mtəm,ti də̀ŋgər"	Ankwe,Bacama,Bade,Banana,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Matakam,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ə́	ə́/ə	E	Vowel	172	U+0259 U+0301	"də́ktè,àǰèkə́ndī yébú,šə́n"	Bade,Bura,Gava,Gudu,Kilba,Lame,Matakam,Mwulyen,Ngizim,Yingilum
+ə̂	ə̂/ə	E	Vowel	102	U+0259 U+0302	"sə̀kə̂m,xə̀nwèyə̂rà,ɣə̂w"	Ankwe,Bacama,Bade,Boka,Bolewa,Bura,Cibak,Dera,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gabin,Gera,Gudu,Jari,Karekare,Kilba,Lame,Margi,Miya,Ngamo,Ngizim,Njanye,Pero,Plci,Seya,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
+ə̃	ə̃	E	Vowel	7	U+0259 U+0303	"sə̃gwəllà,tə̃,ǹtə̃f"	Banana,Faliwagira,Gude,Jaku,Matakam,Yingilum
+ə̄	ə̄/ə	E	Vowel	51	U+0259 U+0304	"ndi̵r xàmūlə̄ŋgà ndi̵r kuzùgū,nðə̄w,tə̄ƚtɩ̄c"	Falikiria,Gude,Gudu,Hildi,Hwona,Kilba,Lamepeve,Westmargi,Yingilum
+ə̌	ə̌/ə	E	Vowel	15	U+0259 U+030C	"kàlə̌y,nə̌n,tùɣùnə̌ŋ"	Bacama,Cip,Faligili,Falikiria,Gudu,Jaku,Kilba,Plci,Seya
+ɛ̀	ɛ̀/ɛ	E	Vowel	30	U+025B U+0300	"ni šiyɛ̀n,ŋgyɛ̀ƚɛ̀,ɓwòtdɛ̀rmuk gwe"	Ankwe,Cip,Dira,Falijilbu
+ɛ̂	ɛ̂/ɛ	E	Vowel	7	U+025B U+0302	"gàshɛ̂y,ʔɛ̂m,ʔɛ̂n"	Bacama,Falimucella,Higikamale,Mwulyen
+ɛ̃	ɛ̃	E	Vowel	1	U+025B U+0303	"mwɛ̃"	Westmargi
+ɛ̄	ɛː	E	Vowel	8	U+025B U+0304	"kyɛ̄kyɛ̄ru,mɛ̄dī̵fà,mɩ́nàktɛ̄liə̂"	Gude,Hildi,Kilba
+ɛ̌	ɛ̌/ɛ	E	Vowel	5	U+025B U+030C	"pòžiɛ̌tə́pə́n,pù mbí žiɛ̌tə́pə́n,žɛ̌m"	Cip,Gudu
+ɩ̀	ɩ̀/ɪ	I	Vowel	999	U+0269 U+0300	"jɩ̀fənà,pu àjɩ̀ nfwə̀ɗ,rɩ̀mo"	Angas,Ankwe,Bacama,Banana,Bankala,Boka,Bolewa,Bura,Cibak,Dira,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Geji,Glvda,Gude,Gudu,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Kilba,Lame,Mandara,Margi,Matakam,Miya,Mwulyen,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Seya,Wamdiu,Westmargi,Yingilum
+ɩ́	ɩ́/ɪ	I	Vowel	131	U+0269 U+0301	"kùčɩ́kɩ́pà,nàwɩ́ší,nɩ́kìnù"	Falijilbu,Glvda,Gudu,Kilba,Lame,Mwulyen,Yingilum
+ɩ̂	ɩ̂/ɨ	I	Vowel	40	U+0269 U+0302	"bèʔɩ̂,ftabì fcɩ̂,tɩ̂tí"	Boka,Bura,Falijilbu,Falimucella,Faliwagira,Gaanda,Gabin,Kilba,Lame,Ngamo,Ngizim,Pero,Seya,Westmargi
+ɩ̃	ɨ̃	I	Vowel	3	U+0269 U+0303	"wufɩ̃rā,xwɩ̃nyɛ,xɩ̃r̃"	Cibak,Higikamale,Hwona
+ɩ̄	ɪː	I	Vowel	87	U+0269 U+0304	"cicɩ̄r̃ miyā,dɩ̄lū,tì̵li̵gɩ̄c"	Falikiria,Gude,Gudu,Hildi,Hwona,Kilba
+ɩ̌	ɩ̌/ɪ	I	Vowel	9	U+0269 U+030C	"gɩ̌nǰε̄,mwɩ̌c,čɩ̌n"	Gude,Gudu,Kilba,Lame,Seya,Yingilum
+ɪ̀	ɪ̀/ɪ	I	Vowel	42	U+026A U+0300	"nyɪ̀si̵ŋ,piɗɪ̀,šišɪ̀r"	Buli,Burma,Plci
+ʌ̀	ʌ̀/ʌ	E	Vowel	5	U+028C U+0300	"gʷuhʷo ɓo wá vʌ̀l,mbúːlʌ̀n,tε̂ʌ̀í"	Gudu,Lame,Pero,Yingilum
+ʌ́	ʌ́/ʌ	E	Vowel	6	U+028C U+0301	"bʌ́lò,lʌ́lὲ lʌ́léə̀,vʌ́dətsù"	Gudu,Lame,Yingilum
+ˀa	ʔ a	H A	Consonant Vowel	7	U+02C0 U+0061	"kwàtυnaxa ˀayvyà,mìˀa,yeŋgə̀ ˀana"	Buli,Geji,Glvda,Zvana
+ˀi	ʔ i	H I	Consonant Vowel	1	U+02C0 U+0069	"cìˀisì"	Geji
+ˀo	ʔ o	H U	Consonant Vowel	1	U+02C0 U+006F	"ˀòɣὺdal ˀo υdυgà"	Glvda
+ˀu	ʔ u	H Y	Consonant Vowel	4	U+02C0 U+0075	"vì̵jir ˀuɓà,ɬimà ɬìm ˀufà,ˀumi̵la ˀumi̵laxà"	Dwot,Gava,Glvda,Zvana
+ˀy	ʔ y	H Y	Consonant Vowel	1	U+02C0 U+0079	"šɪn ˀyar"	Buli
+ˀà	ʔ à/a	H A	Consonant Vowel	3	U+02C0 U+00E0	"kwəpˀàr,pəməkwəpˀàr,ˀafì ði ˀàləp"	Burma,Seya
+ˀì	ʔ ì/i	H I	Consonant Vowel	1	U+02C0 U+00EC	"šindì ˀìtur"	Dwot
+ˀù	ʔ ù/u	H Y	Consonant Vowel	5	U+02C0 U+00F9	"ce dì̵ aŋˀùs,samˀùrìy,zup bùdì̵lì̵ aŋˀùs"	Buli,Dwot,Glvda
+ˀə	ʔ ə	H E	Consonant Vowel	1	U+02C0 U+0259	"dùˀəl"	Dwot
+ˀυ	ʔ ʊ	H Y	Consonant Vowel	2	U+02C0 U+03C5	"vὺɗa vὺɗì̵gà ˀὺɣwa ˀυɣυgwà,ˀὺɣùlal ˀυɣυli̵gà"	Glvda
+ˀὺ	ʔ ὺ/ʊ	H Y	Consonant Vowel	1	U+02C0 U+1F7A	"vὺɗa vὺɗì̵gà ˀὺɣwa ˀυɣυgwà"	Glvda
+̵i	ɨ	I	Vowel	1	U+0335 U+0069	"r̵intân"	Bade
+έː	έː/ɛː	E	Vowel	8	U+03AD U+02D0	"tέːb,ǹgέːd,ǹǰέːb"	Gudu,Mwulyen
+ε̂	ε̂/ɛ	E	Vowel	16	U+03B5 U+0302	"dùktε̂,ngɩƚatà kε̂nwa,tε̂mna"	Bura,Gaanda,Higighye,Higinkafa,Jari,Miya,Ngamo,Ngizim,Pero,Yingilum
+ε̃	ɛ̃	E	Vowel	1	U+03B5 U+0303	"hĩε̃skó"	Yingilum
+ε̄	ε̄/ɛ	E	Vowel	37	U+03B5 U+0304	"gɩ̌nǰε̄,yǔtε̄,čúpkyε̄"	Hwona,Kilba,Yingilum
+ε̌	ε̌/ɛ	E	Vowel	1	U+03B5 U+030C	"bε̌tε̄"	Yingilum
+υ̂	υ̂/ʊ	Y	Vowel	4	U+03C5 U+0302	"gυ̂ŋ,kυ̂r̃guna,ŋgυ̂r"	Glvda,Seya
+υ̃	ʊ̃	Y	Vowel	1	U+03C5 U+0303	"yisυ̃"	Seya
+υ̌	υ̌/ʊ	Y	Vowel	5	U+03C5 U+030C	"gυ̌p,sυ̌n,wυ̌l"	Seya
+ѵ̀	ѵ̀/ⱱ	W	Consonant	8	U+0475 U+0300	"kàmhѵrѵ̀m,kѵtkѵ̀t,nwѵ̀r"	Burma
+ḿ̦	ḿ̦/m̩	M	Consonant	1	U+1E3F U+0326	"dì̵bḿ̦"	Seya
+ṛ̃	ṛ̃/r̃	R	Consonant	1	U+1E5B U+0303	"məṛ̃ɗâatu"	Bade
+ẽ̀	ẽ̀/ẽ	E	Vowel	2	U+1EBD U+0300	"lẽ̀kũ,číẽ̀tε̄"	Falijilbu,Yingilum
+ẽ́	ẽ́/ẽ	E	Vowel	1	U+1EBD U+0301	"wìyẽ́nũ̀"	Gudu
+ẽ̌	ẽ̌/ẽ	E	Vowel	1	U+1EBD U+030C	"wẽ̌čε̄"	Yingilum
+ỹ̀	ỹ̀/j	J	Consonant	1	U+1EF9 U+0300	"ĩỹ̀ã́w̃"	Yingilum
+ὲː	ὲː/ɛː	E	Vowel	2	U+1F72 U+02D0	"mátὲːl,úřmábὲːl"	Gudu
+dz̀	dz̀/dz	C	Consonant	1	U+0064 U+007A U+0300	"kàdz̀a xə̀dzi"	Falijilbu
+fwˋ	f’ʷ	B	Consonant	1	U+0066 U+0077 U+02CB	"fwˋʔìkô"	Ngamo
+m̦̀	m̦̀/m̩	M	Consonant	10	U+006D U+0326 U+0300	"dὺtυbm̦̀,gυbm̦̀,ðυbm̦̀"	Burma,Seya
+r̃̀	r̃̀/r̃	R	Consonant	3	U+0072 U+0303 U+0300	"r̃̀r̃diɓwu,r̃̀r̃ge,r̃̀r̃ɗa"	Faligili
+tsˋ	tsʼ	T	Consonant	2	U+0074 U+0073 U+02CB	"ŋantsˋ"	Seya
+ã́ː	ã́ː/ãː	A	Vowel	1	U+00E3 U+0301 U+02D0	"sã́ːwá"	Lame
+ĩ̵̀	ĩ̵̀/ɨ̃	I	Vowel	1	U+0129 U+0335 U+0300	"ənìhĩ̵̀"	Miya
+ĩ̵̂	ĩ̵̂/ɨ̃	I	Vowel	1	U+0129 U+0335 U+0302	"ngùwĩ̵̂"	Plci
+œ́ː	œ́ː/œː	U	Vowel	3	U+0153 U+0301 U+02D0	"bœ́ːzò,dœ́ːvən,œ́ːdù"	Gudu
+ɔ̂ː	ɔ̂ː/ɔː	U	Vowel	1	U+0254 U+0302 U+02D0	"títέì nɔ̂ːtέì"	Yingilum
+ɔ̃̀	ɔ̃̀/ɔ̃	U	Vowel	1	U+0254 U+0303 U+0300	"mbɔ̃̀yṍ"	Yingilum
+ə̀ː	ə̀ː/əː	E	Vowel	1	U+0259 U+0300 U+02D0	"ɓə̀ːŋláŋù"	Mwulyen
+ə́ː	ə́ː/əː	E	Vowel	3	U+0259 U+0301 U+02D0	"gə́ːwàː,kə́ːp,ɓə́ːp"	Gudu
+ə̃̀	ə̃̀/ə̃	E	Vowel	6	U+0259 U+0303 U+0300	"nə̃̀ŋgūná,siyə̃̀ŋi,xudə̃̀"	Banana,Falijilbu,Lame,Wamdiu,Yingilum
+ə̃̂	ə̃̂/ə̃	E	Vowel	1	U+0259 U+0303 U+0302	"mə̃̂tε̄"	Yingilum
+ə̌ː	ə̌ː/əː	E	Vowel	1	U+0259 U+030C U+02D0	"mə̌ːpwəì"	Gudu
+ɩ́ː	ɩ́ː/ɪː	I	Vowel	3	U+0269 U+0301 U+02D0	"lɩ́ːmcɩ̀l,mə̀yɩ́ːb,čɩ́ːńtì"	Gudu,Mwulyen,Yingilum
+ɩ̃̀	ɩ̃̀/ɨ̃	I	Vowel	2	U+0269 U+0303 U+0300	"dwɩ̃̀yi,vɩ̃̀lέ"	Dira,Yingilum
+ɩ̃́	ɩ̃́/ɨ̃	I	Vowel	1	U+0269 U+0303 U+0301	"hũ̀rɩ̃́n"	Yingilum
+ɩ̃̂	ɩ̃̂/ɨ̃	I	Vowel	4	U+0269 U+0303 U+0302	"mì̵zàʔyɩ̃̂,vwùnyɩ̃̂,wùdà ɗa yɩmɩ̃̂"	Falijilbu
+ʌ̃́	ʌ̃́/ʌ̃	E	Vowel	1	U+028C U+0303 U+0301	"nvə nʌ̃́à"	Yingilum
+ε̄ː	ε̄ː/ɛː	E	Vowel	1	U+03B5 U+0304 U+02D0	"òítε̄ː"	Yingilum
+υˀ$	ʊ ʔ	Y H	Vowel Consonant	2	U+03C5 U+02C0 U+0024	"bwatυˀ,dὺnsυˀ"	Seya
+υ̃̀	υ̃̀/ʊ̃	Y	Vowel	2	U+03C5 U+0303 U+0300	"rɩsυ̃̀,si̵mbυrsυ̃̀"	Seya
+œ̄́ː	œ̄́ː/œː	U	Vowel	1	U+0153 U+0304 U+0301 U+02D0	"bœ̄́ːm"	Gudu
+ɩ̃́ː	ɩ̃́ː/ɨ̃ː	I	Vowel	1	U+0269 U+0303 U+0301 U+02D0	"pɩ̃́ːnjúa"	Yingilum
