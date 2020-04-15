@@ -9,14 +9,14 @@
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Kraft's \"Chadic Wordlists\", from 1981",
+    "dc:title": "CLDF dataset derived from Kraft's \"Chadic Wordlists\" from 1981",
     "dcat:accessURL": "https://github.com/lexibank/kraftchadic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/kraftchadic",
-            "dc:created": "v3.0-2-gda48416"
+            "dc:created": "v3.0-3-g584516f"
         },
         {
             "rdf:type": "prov:Entity",

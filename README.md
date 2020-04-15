@@ -1,4 +1,4 @@
-# CLDF dataset derived from Kraft's "Chadic Wordlists", from 1981
+# CLDF dataset derived from Kraft's "Chadic Wordlists" from 1981
 
 Cite the source dataset as
 
@@ -36,7 +36,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Tiago Tresoldi | @tresoldi | patron, profile | Autor
+Tiago Tresoldi | @tresoldi | patron, profile, language mapping | Autor
 Johann-Mattis List | @LinguList | code, concepts, profile | Autor
 Michael Cysouw | @cysouw | digitization | DataCurator, Distributor
 Peter Bouda | | digitization | DataCurator, Distributor

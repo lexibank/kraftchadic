@@ -2,7 +2,7 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Tiago Tresoldi | @tresoldi | patron, profile | Autor
+Tiago Tresoldi | @tresoldi | patron, profile, language mapping | Autor
 Johann-Mattis List | @LinguList | code, concepts, profile | Autor
 Michael Cysouw | @cysouw | digitization | DataCurator, Distributor
 Peter Bouda | | digitization | DataCurator, Distributor
