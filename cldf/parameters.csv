@@ -189,7 +189,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 188_cow,cow,1007,COW
 189_bull,bull,1008,BULL
 190_goat,goat,1502,GOAT
-191_hegoat,he-goat,264,HE-GOAT
+191_hegoat,he-goat,2475,MALE GOAT
 192_sheep,sheep,1331,SHEEP
 193_ram,ram,1344,RAM
 194_horse,horse,615,HORSE
@@ -237,10 +237,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 237_knife,knife,1352,KNIFE
 238_rope,rope,1218,ROPE
 239_calabash,calabash,411,GOURD
-240_cookingpot,cooking pot,1462,POT
+240_cookingpot,cooking pot,3653,COOKING POT
 241_smallpot,small pot,2053,SMALL BOWL
-242_largewaterpot,large water pot,1462,POT
-243_smallwaterpot,small water pot,2053,SMALL BOWL
+242_largewaterpot,large water pot,3766,WATER POT
+243_smallwaterpot,small water pot,,
 244_thing,thing,738,THING
 245_load,load,1679,LOAD
 246_language,language,1307,LANGUAGE
