@@ -31,3 +31,14 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Tokens:** 171,424
 - **Segments:** 273 (0 BIPA errors, 0 CTLS sound class errors, 270 CLTS modified)
 - **Inventory size (avg):** 62.72
+
+# Contributors
+
+Name | GitHub user | Description |Role
+--- | --- | --- | ---
+Tiago Tresoldi | @tresoldi | patron, profile, code | Author
+Johann-Mattis List | @LinguList | code, profile, concept mapping | Author
+Michael Cysouw | @cysouw | digitization | DataCurator
+Peter Bouda | | digitization | DataCurator
+
+
