@@ -16,13 +16,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/kraftchadic",
-            "dc:created": "v3.0-5-g07ef921"
+            "dc:created": "v3.0-3-g5920a94"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -40,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.6"
+            "dc:description": "3.7.7"
         },
         {
             "dc:title": "python-packages",
