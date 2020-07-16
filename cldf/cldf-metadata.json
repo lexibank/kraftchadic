@@ -7,6 +7,7 @@
         "http://concepticon.clld.org/contributions/Kraft-1981-434"
     ],
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Kraft's \"Chadic Wordlists\" from 1981",
@@ -16,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/kraftchadic",
-            "dc:created": "v3.0-3-g5920a94"
+            "dc:created": "v2.0-19-g5efb5ef"
         },
         {
             "rdf:type": "prov:Entity",
@@ -40,7 +41,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.7"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
