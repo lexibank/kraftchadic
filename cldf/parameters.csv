@@ -54,7 +54,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 53_arm,arm,1673,ARM
 54_finger,finger,1303,FINGER
 55_leg,leg,1297,LEG
-56_thigh,thigh,800,THIGH
+56_thigh,thigh,471,UPPER LEG (THIGH)
 57_knee,knee,1371,KNEE
 58_body,body,1480,BODY
 59_skin,skin,763,SKIN
@@ -233,7 +233,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 232_mattabarma,mat (tabarma),195,MAT
 234_bow,bow,994,BOW
 235_arrow,arrow,977,ARROW
-236_quiver,quiver,52,SHIVER
+236_quiver,quiver,995,QUIVER (FOR ARROWS)
 237_knife,knife,1352,KNIFE
 238_rope,rope,1218,ROPE
 239_calabash,calabash,411,GOURD
