@@ -54,7 +54,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 53_arm,arm,1673,ARM
 54_finger,finger,1303,FINGER
 55_leg,leg,1297,LEG
-56_thigh,thigh,800,THIGH
+56_thigh,thigh,471,UPPER LEG (THIGH)
 57_knee,knee,1371,KNEE
 58_body,body,1480,BODY
 59_skin,skin,763,SKIN
@@ -189,7 +189,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 188_cow,cow,1007,COW
 189_bull,bull,1008,BULL
 190_goat,goat,1502,GOAT
-191_hegoat,he-goat,264,HE-GOAT
+191_hegoat,he-goat,2475,MALE GOAT
 192_sheep,sheep,1331,SHEEP
 193_ram,ram,1344,RAM
 194_horse,horse,615,HORSE
@@ -233,14 +233,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 232_mattabarma,mat (tabarma),195,MAT
 234_bow,bow,994,BOW
 235_arrow,arrow,977,ARROW
-236_quiver,quiver,52,SHIVER
+236_quiver,quiver,995,QUIVER (FOR ARROWS)
 237_knife,knife,1352,KNIFE
 238_rope,rope,1218,ROPE
 239_calabash,calabash,411,GOURD
-240_cookingpot,cooking pot,1462,POT
+240_cookingpot,cooking pot,3653,COOKING POT
 241_smallpot,small pot,2053,SMALL BOWL
-242_largewaterpot,large water pot,1462,POT
-243_smallwaterpot,small water pot,2053,SMALL BOWL
+242_largewaterpot,large water pot,3766,WATER POT
+243_smallwaterpot,small water pot,,
 244_thing,thing,738,THING
 245_load,load,1679,LOAD
 246_language,language,1307,LANGUAGE
@@ -429,6 +429,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 429_weave,weave,133,WEAVE
 430_plait,plait,3295,BRAID (VERB)
 431_breakinpieces,break in pieces,680,BREAK (DESTROY OR GET DESTROYED)
-432_sticksnapped,(stick) snapped,459,SNAPP (OF STICK)
+432_sticksnapped,(stick) snapped,459,SNAP (OF STICK)
 433_ropebroke,(rope) broke,460,BREAK (OF ROPE)
 434_wash,wash,1453,WASH

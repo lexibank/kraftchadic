@@ -1,0 +1,40 @@
+{
+    "title": "CLDF dataset derived from Kraft's \"Chadic Wordlists\" from 1981",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Michael Cysouw",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Peter Bouda",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Peter Bouda",
+            "type": "Distributor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kraft, Charles H. 1981. Chadic wordlists. Berlin: Dietrich Reimer.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
