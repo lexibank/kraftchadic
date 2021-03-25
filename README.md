@@ -38,9 +38,10 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 Name | GitHub user | Description |Role
 --- | --- | --- | ---
-Tiago Tresoldi | @tresoldi | patron, profile, code, language mapping | Author
-Johann-Mattis List | @LinguList | code, profile, concept mapping | Author
+Tiago Tresoldi | @tresoldi | patron, profile, code, language mapping | Other 
+Johann-Mattis List | @LinguList | code, profile, concept mapping | Other
 Michael Cysouw | @cysouw | digitization | DataCurator
 Peter Bouda | | digitization | DataCurator, Distributor
+Kraft, Charles H. | | original data collection | Author
 
 

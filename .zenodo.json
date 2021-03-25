@@ -7,13 +7,18 @@
     ],
     "creators": [
         {
-            "name": "Tiago Tresoldi"
-        },
-        {
-            "name": "Johann-Mattis List"
+            "name": "Kraft, Charles H."
         }
     ],
     "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
         {
             "name": "Michael Cysouw",
             "type": "DataCurator"
