@@ -17,7 +17,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/kraftchadic.svg?branch=master)](https://travis-ci.org/lexibank/kraftchadic)
+[![CLDF validation](https://github.com/lexibank/kraftchadic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/kraftchadic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -38,8 +38,9 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 Name | GitHub user | Description |Role
 --- | --- | --- | ---
-Tiago Tresoldi | @tresoldi | patron, profile, code, language mapping | Author
-Johann-Mattis List | @LinguList | code, profile, concept mapping | Author
+Charles H. Kraft | | | Author
+Tiago Tresoldi | @tresoldi | patron, profile, code, language mapping | Other
+Johann-Mattis List | @LinguList | code, profile, concept mapping | Other
 Michael Cysouw | @cysouw | digitization | DataCurator
 Peter Bouda | | digitization | DataCurator, Distributor
 
