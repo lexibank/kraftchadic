@@ -5,33 +5,8 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [
-        {
-            "name": "Kraft, Charles H."
-        }
-    ],
-    "contributors": [
-        {
-            "name": "Tiago Tresoldi",
-            "type": "Other"
-        },
-        {
-            "name": "Johann-Mattis List",
-            "type": "Other"
-        },
-        {
-            "name": "Michael Cysouw",
-            "type": "DataCurator"
-        },
-        {
-            "name": "Peter Bouda",
-            "type": "DataCurator"
-        },
-        {
-            "name": "Peter Bouda",
-            "type": "Distributor"
-        }
-    ],
+    "creators": [],
+    "contributors": [],
     "communities": [
         {
             "identifier": "lexibank"
