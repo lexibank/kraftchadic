@@ -1,8 +1,16 @@
 # CLDF dataset derived from Kraft's "Chadic Wordlists" from 1981
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/kraftchadic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/kraftchadic/actions?query=workflow%3ACLDF-validation)
 
-> Kraft, Charles H. 1981. Chadic wordlists. Berlin: Dietrich Reimer.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Kraft, Charles H. 1981. Chadic wordlists. Berlin: Dietrich Reimer.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -38,15 +46,17 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 Name | GitHub user | Description |Role
 --- | --- | --- | ---
-<<<<<<< HEAD
-Tiago Tresoldi | @tresoldi | patron, profile, code, language mapping | Other 
-=======
-Charles H. Kraft | | | Author
 Tiago Tresoldi | @tresoldi | patron, profile, code, language mapping | Other
->>>>>>> 377410c7c91f61ef0ba45c87fb4e8a7d41939c34
 Johann-Mattis List | @LinguList | code, profile, concept mapping | Other
 Michael Cysouw | @cysouw | digitization | DataCurator
 Peter Bouda | | digitization | DataCurator, Distributor
 Kraft, Charles H. | | original data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

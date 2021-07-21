@@ -1,11 +1,10 @@
 from pathlib import Path
 
+import pylexibank
 from clldutils.misc import slug
-from pylexibank import progressbar
-from pylexibank.dataset import Dataset as BaseDataset
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "kraftchadic"
 
@@ -16,7 +15,7 @@ class Dataset(BaseDataset):
             id_factory=lambda x: x.number + "_" + slug(x.english), lookup_factory="Name"
         )
 
-        for entry in progressbar(
+        for entry in pylexibank.progressbar(
             self.raw_dir.read_csv("clean_data.tsv", delimiter="\t", dicts=True)
         ):
             args.writer.add_forms_from_value(
