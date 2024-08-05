@@ -17,19 +17,15 @@
         },
         {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
         },
         {
             "name": "Michael Cysouw",
-            "type": "DataCurator"
+            "type": "Other"
         },
         {
             "name": "Peter Bouda",
-            "type": "DataCurator"
-        },
-        {
-            "name": "Peter Bouda",
-            "type": "Distributor"
+            "type": "Other"
         }
     ],
     "communities": [

@@ -7,6 +7,7 @@ from clldutils.misc import slug
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "kraftchadic"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
