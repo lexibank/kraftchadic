@@ -2,6 +2,7 @@ Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
 '	ʔ	H	Consonant	145	U+0027	"ir'bendeou,sime'd,tunno'i"	Bade,Bolewa,Hausa,Higibaza,Mismezime,Ngizim
 -	+	_	Marker	1	U+002D	"tə̀ɠin-tə̀yìn"	Bade
 M	M/m	M	Consonant	2	U+004D	"Mcɩ̀fɛ,Mcɩ̀fɩntsu"	Higibaza
+k w	kʷ	k	Consonant				
 R	ʀ	R	Consonant	2	U+0052	"xaRàya,xi̵sci Rete"	Gabin
 a	a	A	Vowel	10195	U+0061	"gwə̀nəy gwâgwə̀ʔa,wawdεžure wɔmdɩre,ɓì̵ràta"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
 b	b	P	Consonant	3692	U+0062	"bùrda,ləbòk,mòbaʔ"	Angas,Ankwe,Bacama,Bade,Banana,Bananamouseye,Bankala,Boka,Bolewa,Buli,Bura,Burma,Cibak,Cip,Daba,Dera,Dira,Dwot,Faligili,Falijilbu,Falikiria,Falimucella,Faliwagira,Gaanda,Gabin,Gava,Geji,Gera,Glvda,Gude,Gudu,Hausa,Higibaza,Higifutu,Higighye,Higikamale,Higinkafa,Hildi,Hwona,Jaku,Jari,Karekare,Kilba,Lame,Lamepeve,Mandara,Margi,Massa,Matakam,Mismezime,Miya,Mwulyen,Nakatsa,Ngamo,Ngizim,Ngwaxi,Njanye,Pero,Piimdi,Plci,Seya,Sura,Tangale,Wamdiu,Westmargi,Yingilum,Zvana
@@ -111,7 +112,7 @@ z	z	S	Consonant	1209	U+007A	"azi̵mε,bzànto,dùgwùza"	Angas,Ankwe,Bacama,Bade
 θ	θ	D	Consonant	29	U+03B8	"dok θeŋe,θεɗa,θεɗε"	Massa
 υ	ʊ	Y	Vowel	274	U+03C5	"kυlbù tυm kika,ɗɩyədàɗik kυdυgà,ˀuɓυlà"	Glvda,Seya
 ύ	ύ/ʊ	Y	Vowel	1	U+03CD	"ḿtsύgà"	Glvda
-ѵ	ⱱ	W	Consonant	20	U+0475	"kàmhѵrѵ̀m,kѵtkѵ̀t,kѵtɪr"	Burma
+ѵ	ʊ	W	Consonant	20	U+0475	"kàmhѵrѵ̀m,kѵtkѵ̀t,kѵtɪr"	Burma
 ḕ	ḕ/e	E	Vowel	39	U+1E15	"yā ƙōnḕ,yā ɓōyḕ,ƙadangarḕ"	Hausa,Sura
 ḯ	ḯ/ɨ	I	Vowel	1	U+1E2F	"ḯŋwì̵u"	Lame
 ḿ	ḿ/m	M	Consonant	52	U+1E3F	"ḿbì,ḿcì,ḿtæ̀"	Bacama,Bura,Cibak,Gava,Glvda,Higikamale,Lame,Mandara,Margi,Matakam,Mwulyen,Ngamo,Seya,Wamdiu,Westmargi,Zvana
@@ -272,7 +273,7 @@ yʷ	ɪ w	I W	Vowel Consonant	1	U+0079 U+02B7	"yʷarì"	Tangale
 υ̂	υ̂/ʊ	Y	Vowel	4	U+03C5 U+0302	"gυ̂ŋ,kυ̂r̃guna,ŋgυ̂r"	Glvda,Seya
 υ̃	ʊ̃	Y	Vowel	1	U+03C5 U+0303	"yisυ̃"	Seya
 υ̌	υ̌/ʊ	Y	Vowel	5	U+03C5 U+030C	"gυ̌p,sυ̌n,wυ̌l"	Seya
-ѵ̀	ѵ̀/ⱱ	W	Consonant	8	U+0475 U+0300	"kàmhѵrѵ̀m,kѵtkѵ̀t,nwѵ̀r"	Burma
+ѵ̀	ѵ̀/ʊ	W	Consonant	8	U+0475 U+0300	"kàmhѵrѵ̀m,kѵtkѵ̀t,nwѵ̀r"	Burma
 ḿ̦	ḿ̦/m̩	M	Consonant	1	U+1E3F U+0326	"dì̵bḿ̦"	Seya
 ṛ̃	ṛ̃/r̃	R	Consonant	1	U+1E5B U+0303	"məṛ̃ɗâatu"	Bade
 ẽ̀	ẽ̀/ẽ	E	Vowel	2	U+1EBD U+0300	"lẽ̀kũ,číẽ̀tε̄"	Falijilbu,Yingilum

@@ -39,7 +39,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 171,424
-- **Segments:** 273 (0 BIPA errors, 0 CLTS sound class errors, 270 CLTS modified)
+- **Segments:** 272 (0 BIPA errors, 0 CLTS sound class errors, 269 CLTS modified)
 - **Inventory size (avg):** 62.72
 
 # Contributors
