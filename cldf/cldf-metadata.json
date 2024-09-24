@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/kraftchadic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0.1",
+            "dc:created": "v4.0.2",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.12.6"
         },
         {
             "dc:title": "python-packages",
